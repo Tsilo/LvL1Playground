@@ -149,7 +149,7 @@ html, body {
     }
 }
 
-.footer{
+.list{
     display: grid;
     grid-template-columns: repeat( auto-fit, minmax(100px, 1fr) );
 }
