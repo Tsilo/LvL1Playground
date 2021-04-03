@@ -228,6 +228,12 @@ html, body {
     .body{
         grid-column: span 3;
     }
+    .body__article{
+        grid-column: span 4;
+    }
+    .body__ad{
+        display: none;
+    }
     .footer-cont{
         grid-column: span 4;
     }
