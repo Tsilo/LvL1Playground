@@ -61,6 +61,7 @@ html, body {
 
 .ad {
     grid-column: span 2;
+    background-color: cadetblue !important;
 }
 
 .list {
@@ -109,7 +110,7 @@ html, body {
 
     .ad {
         grid-column: span 3;
-        background-color: cadetblue !important;
+
     }
 
     .list {
