@@ -1,0 +1,27 @@
+{
+  "name": "grids",
+  "version": "1.0.0",
+  "description": "grid layouts",
+  "main": "script.js",
+  "dependencies": {
+    "bootstrap": "^5.0.1",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "sass": "^1.33.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "sass assets/main.scss style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tsilo/lvl1test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tsilo/lvl1test/issues"
+  },
+  "homepage": "https://github.com/Tsilo/lvl1test#readme"
+}
