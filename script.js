@@ -6,7 +6,7 @@ let images = [
     'https://hackernoon.com/hn-images/1*jFyawcsqoYctkTuZg6wQ1A.jpeg',
 ];
   
-
+asd
 class Slider {
     imgs = [];
     container;
