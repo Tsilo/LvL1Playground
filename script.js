@@ -5,7 +5,7 @@ let images = [
     'https://hatrabbits.com/wp-content/uploads/2017/01/random.jpg',
     'https://hackernoon.com/hn-images/1*jFyawcsqoYctkTuZg6wQ1A.jpeg',
 ];
-
+  
 
 class Slider {
     imgs = [];
